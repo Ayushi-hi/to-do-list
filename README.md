@@ -23,7 +23,7 @@ A simple and user-friendly To-Do List web application that helps users organize 
 3. Open `index.html` in any web browser.
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here after deployment)
+https://ayushi-hi.github.io/to-do-list/
 
 ## 👩‍💻 Author
 Ayushi Singh
